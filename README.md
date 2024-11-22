@@ -1,9 +1,9 @@
 <h1 align="center">안녕하세요 👋, 개발자 이성도 입니다.</h1>
-<h3 align="center">Welcome to Seongdo's JSP Web Application</h3>
+<h3 align="center">Welcome to Seongdo's Python Web Crawling Program</h3>
 
 ---
 
-### 🔭 Current Project: **JSP Web Application**
+### 🔭 Current Project: **Python Web Crawling Program**
 
 ---
 
