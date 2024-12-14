@@ -36,11 +36,12 @@ jobs:
     - name: run my file
       run: |
         python3 news.py
-
+        
+    # git config --global user.email "star1582@naver.com"
+    # git config --global user.name "Zayne"  
+    
     - name: commits
-      run: |
-        git config --global user.email "star1582@naver.com"
-        git config --global user.name "Zayne"
+      run: |    
         git add data.csv
         git commit -m "뉴스데이터 수집"
         
