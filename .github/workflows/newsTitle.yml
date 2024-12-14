@@ -41,7 +41,7 @@ jobs:
       run: |    
         git config --global user.email "star1582@naver.com"
         git config --global user.name "Zayne"  
-        git add data.csv
+        git add data2.csv
         git commit -m "뉴스데이터 수집"
         
     - name : push
