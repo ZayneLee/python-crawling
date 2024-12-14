@@ -4,12 +4,12 @@
 name: 뉴스속보수
 
 on:
-  schedule :
-    - cron : "10 * * * *"
-  # push:
-  #   branches: [ "master" ]
-  # pull_request:
-  #   branches: [ "master" ]
+  # schedule :
+    # - cron : "10 * * * *"
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
 
 jobs:
   build:
