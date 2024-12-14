@@ -11,4 +11,4 @@ for i in title:
 
 dic = {"뉴스제목" : titleList}
 df = pd.DataFrame(dic)
-df.to_csv("data1.csv", encoding="utf-8", index=False)
+df.to_csv("data2.csv", encoding="utf-8", index=False)
